@@ -17,8 +17,8 @@
  # Quick Navigation
 | [Course Description and Objectives](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#course-description) 	|
 |------------------------------------------------------------------------------------------------------------------------------------	|
-| [**Assignments**](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#course-description) 	|
-| [**Readings and Schedule**](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#course-description) 	|
+| [**Assignments**](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#assignments) 	|
+| [**Readings and Schedule**](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#readings--schedule) 	|
  
  # Course Description
 
