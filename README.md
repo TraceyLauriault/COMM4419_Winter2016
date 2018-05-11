@@ -118,7 +118,7 @@ Welcome to the class! We will get to know each other, go over the course outline
 | [The Counted](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database) 	| [Mass Shooting in America](https://library.stanford.edu/projects/mass-shootings-america) 	|
 | [Fatal Encounters](http://www.fatalencounters.org/people-search/) 	| [Mass Shooting Tracker](http://www.shootingtracker.com/wiki/Main_Page) 	|
 | [Killed by Police:](http://killedbypolice.net/) 	| [The Gun Violence Archive:](http://www.gunviolencearchive.org/) 	|
-| [FBI Justifiable Homicide](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_14_justifiable_homicide_by_weapon_law_enforcement_2009-2013.xls) 	| [US Mass Shootings, 1982-2015:](http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data) 	|
+| [FBI Justifiable Homicide](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_14_justifiable_homicide_by_weapon_law_enforcement_2009-2013.xls) 	| [US Mass Shootings, 1982-2015](http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data) 	|
 | [FBI Active Shooter Incidents](https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents) 	|  	|
 
 ### Assignment 1 (Due midnight Jan. 18) (10 %):
@@ -241,7 +241,7 @@ This week students will learn to think historically by examining the enablers of
 
 ## Week 7 (Mar. 1) – Data Science & Data Analytics
 
-You have been building your data knowledge, you have learned how to distinguish big and small data, last week we studied the enablers of big data and this week we investigate the techniques.  We will discuss these techniques in relation to our credit scores and some of of the topics we discussed about data brokerage in Week 4.  You will also learn about algorithms, social sorting and predictive policing.
+You have been building your data knowledge, you have learned how to distinguish big and small data, last week we studied the enablers of big data and this week we investigate the techniques.  We will discuss these techniques in relation to our credit scores and some of of the topics we discussed about data brokerage in Week 4. You will also learn about algorithms, social sorting and predictive policing.
 
  
 #### Reading:
@@ -270,7 +270,7 @@ In this lecture we explore what drives government and the private sector toward 
 #### Reading:
 
 * Chapter 7. [_The Data Revolution._](http://catalogue.library.carleton.ca/record=b3683612) (15 pages)
-* Steven Vale, (2014) [_International collaboration to understand the relevance of Big Data for official statistics_].(http://doi.org/10.3233/SJI-150889) Statistical Journal of the IAOS 31 (2015) 159–163 159.
+* Steven Vale, (2014) [_International collaboration to understand the relevance of Big Data for official statistics._](http://doi.org/10.3233/SJI-150889) Statistical Journal of the IAOS 31 (2015) 159–163 159.
 * Minish, Henry (2007) [_The Development of Electronic Card Transaction Statistics_](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=NZAE2007&paper_id=83), Business Indicators Statistics New Zealand.
 
 #### Annotated bibliography is due
