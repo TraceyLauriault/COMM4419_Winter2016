@@ -15,10 +15,10 @@
  **Office Hours:** Mondays 2:30 to 5:30pm, Thursdays 9:30-11:30AM
  
  # Quick Navigation
-| [Course Description and Objectives](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#course-description) 	|
+| [Course Description and Objectives](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#course-description) 	|
 |------------------------------------------------------------------------------------------------------------------------------------	|
-| [**Assignments**](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#assignments) 	|
-| [**Readings and Schedule**](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#readings--schedule) 	|
+| [**Assignments**](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#course-description) 	|
+| [**Readings and Schedule**](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#course-description) 	|
  
  # Course Description
 
@@ -93,18 +93,18 @@ Extensions must be requested in advance, in person, and will typically require d
 # Readings & Schedule
 | Week                     | Theme                                                                  |
 |--------------------------|------------------------------------------------------------------------|
-| Week 1 (Jan.12)          | [Introduction – What are facts, data, datasets, databases and metadata?](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-1-jan12--introduction--what-are-facts-data-datasets-databases-and-metadata) |
-| Week 2 (Jan.19)          | [Conceptualizing Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-2-jan19--conceptualizing-data)                                                   |
-| Week 3 (Jan.26)          | [Data Infrastructures and Data Brokers](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-3-jan-26--data-infrastructures-and-data-brokers)                                  |
-| Week 4 (Feb.2)           | [Open Data, Open Government, and Linked Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-4-feb-2--open-data-open-government-and-linked-data)                            |
-| Week 5 (Feb.9)           | [The Characteristics of Big Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-5-feb-9--the-characteristics-of-big-data)                                        |
+| Week 1 (Jan.12)          | [Introduction – What are facts, data, datasets, databases and metadata?](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-1-jan12--introduction--what-are-facts-data-datasets-databases-and-metadata) |
+| Week 2 (Jan.19)          | [Conceptualizing Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-2-jan19--conceptualizing-data)                                                   |
+| Week 3 (Jan.26)          | [Data Infrastructures and Data Brokers](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-3-jan-26--data-infrastructures-and-data-brokers)                                  |
+| Week 4 (Feb.2)           | [Open Data, Open Government, and Linked Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-4-feb-2--open-data-open-government-and-linked-data)                            |
+| Week 5 (Feb.9)           | [The Characteristics of Big Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-5-feb-9--the-characteristics-of-big-data)                                        |
 | Winter Break (Feb.15-21) | No classes                                                             |
-| Week 6 (Feb.23)          | [The Enablers of Big Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-6-feb-23--the-enablers-of-big-data)                                               |
-| Week 7 (Mar.1)           | [Data Science & Data Analytics](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-7-mar-1--data-science--data-analytics)                                          |
-| Week 8 (Mar.8)           | [The Rationale for Big Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-8-mar-8--the-rationale-for-big-data)                                             |
-| Week 9 (Mar.15)          | [The End of Science?](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-9-mar-15--the-end-of-science)                                                    |
-| Week 10 (Mar.22)         | [Social Media & Activism](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-10-mar-22--social-media--activism)                                                |
-| Week 11 (Mar.29)         | [Ethical, political, social and legal concerns](https://github.com/TraceyLauriault/COMM4419_Winter2016/new/master?readme=1#week-10-mar-22--social-media--activism)                          |
+| Week 6 (Feb.23)          | [The Enablers of Big Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-6-feb-23--the-enablers-of-big-data)                                               |
+| Week 7 (Mar.1)           | [Data Science & Data Analytics](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-7-mar-1--data-science--data-analytics)                                          |
+| Week 8 (Mar.8)           | [The Rationale for Big Data](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-8-mar-8--the-rationale-for-big-data)                                             |
+| Week 9 (Mar.15)          | [The End of Science?](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-9-mar-15--the-end-of-science)                                                    |
+| Week 10 (Mar.22)         | [Social Media & Activism](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-10-mar-22--social-media--activism)                                                |
+| Week 11 (Mar.29)         | [Ethical, political, social and legal concerns](https://github.com/TraceyLauriault/COMM4419_Winter2016/blob/master/README.md#week-10-mar-22--social-media--activism)                          |
 | Week 12 (Apr.5)          | Exam Review                                                                 |
 
 ## Week 1 (Jan.12) – Introduction – What are facts, data, datasets, databases and metadata
