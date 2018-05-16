@@ -1,3 +1,4 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 # COMM 4419A Critical Studies of Big Data (Winter 2016)
 
 > Communication Studies, Carleton University
@@ -320,3 +321,5 @@ It’s the last week, we will wrap up the Data Revolution book, and we will revi
 #### Reading:
 
 * Chapter 11. [_The Data Revolution._](http://catalogue.library.carleton.ca/record=b3683612)(9 pages).
+
+<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">COMM34419 Syllabus</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://carleton.ca/sjc/profile/lauriault-tracey/" property="cc:attributionName" rel="cc:attributionURL">Tracey P. Lauriault</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/TraceyLauriault/COMM4419_Winter2016" rel="dct:source">https://github.com/TraceyLauriault/COMM4419_Winter2016</a>.
